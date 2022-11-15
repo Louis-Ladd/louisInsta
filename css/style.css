@@ -30,6 +30,9 @@
     margin-top: 2%;
     justify-content: center;
 }
+.small{
+    font-size: xx-small;
+}
 p {
     text-align: center;
     font-size: 17px;
@@ -39,4 +42,8 @@ h1{
 }
 h2{
     text-align: center;
+}
+img {
+    border-radius: 20px;
+    margin-bottom: -9px;
 }
