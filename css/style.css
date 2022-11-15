@@ -3,7 +3,7 @@
 }
 .page{
     border-radius: 25px;
-    background-color: rgb(255, 217, 240);
+    background-color: #FFD0ED;
     border-style: solid;
     border-color: rgb(32, 32, 32);
     border-width: 5px;
@@ -49,8 +49,11 @@ h2{
 }
 img {
     border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(32, 32, 32);
+    border-width: 5px;
     margin-bottom: -9px;
 }
 body{
-    background-color: rgb(229, 169, 255);
+    background-color: #4557B3;
 }
