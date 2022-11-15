@@ -8,6 +8,8 @@
     border-color: rgb(32, 32, 32);
     border-width: 5px;
     margin: 5%;
+    margin-left:10%;
+    margin-right: 10%;
 }
 .center {
     display: flex;
@@ -35,7 +37,9 @@
 }
 p {
     text-align: center;
-    font-size: 17px;
+    font-size:medium;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 h1{
     text-align: center;
